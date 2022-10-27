@@ -13,3 +13,5 @@
 - Java
 - Gradle
 - Selenium
+
+### obs: arquivo de teste em app/src/test/java/great/GreatTest.java 
